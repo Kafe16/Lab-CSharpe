@@ -1,0 +1,30 @@
+E:\Year-3\.NET\Lab2-Personal_Data\Lab2-Personal_Data\bin\Debug\net6.0\Lab2-Personal_Data.exe
+E:\Year-3\.NET\Lab2-Personal_Data\Lab2-Personal_Data\bin\Debug\net6.0\Lab2-Personal_Data.deps.json
+E:\Year-3\.NET\Lab2-Personal_Data\Lab2-Personal_Data\bin\Debug\net6.0\Lab2-Personal_Data.runtimeconfig.json
+E:\Year-3\.NET\Lab2-Personal_Data\Lab2-Personal_Data\bin\Debug\net6.0\Lab2-Personal_Data.dll
+E:\Year-3\.NET\Lab2-Personal_Data\Lab2-Personal_Data\bin\Debug\net6.0\Lab2-Personal_Data.pdb
+E:\Year-3\.NET\Lab2-Personal_Data\Lab2-Personal_Data\obj\Debug\net6.0\Lab2-Personal_Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Year-3\.NET\Lab2-Personal_Data\Lab2-Personal_Data\obj\Debug\net6.0\Lab2-Personal_Data.AssemblyInfoInputs.cache
+E:\Year-3\.NET\Lab2-Personal_Data\Lab2-Personal_Data\obj\Debug\net6.0\Lab2-Personal_Data.AssemblyInfo.cs
+E:\Year-3\.NET\Lab2-Personal_Data\Lab2-Personal_Data\obj\Debug\net6.0\Lab2-Personal_Data.csproj.CoreCompileInputs.cache
+E:\Year-3\.NET\Lab2-Personal_Data\Lab2-Personal_Data\obj\Debug\net6.0\Lab2-Personal_Data.dll
+E:\Year-3\.NET\Lab2-Personal_Data\Lab2-Personal_Data\obj\Debug\net6.0\refint\Lab2-Personal_Data.dll
+E:\Year-3\.NET\Lab2-Personal_Data\Lab2-Personal_Data\obj\Debug\net6.0\Lab2-Personal_Data.pdb
+E:\Year-3\.NET\Lab2-Personal_Data\Lab2-Personal_Data\obj\Debug\net6.0\Lab2-Personal_Data.genruntimeconfig.cache
+E:\Year-3\.NET\Lab2-Personal_Data\Lab2-Personal_Data\obj\Debug\net6.0\ref\Lab2-Personal_Data.dll
+E:\Year-3\.NET\Lab2-Personal_Data\Lab2-Personal_Data\bin\Debug\net6.0\person.txt
+E:\Year-3\.NET\Lab Pratices\Lab2-Personal_Data\Lab2-Personal_Data\obj\Debug\net6.0\Lab2-Personal_Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Year-3\.NET\Lab Pratices\Lab2-Personal_Data\Lab2-Personal_Data\obj\Debug\net6.0\Lab2-Personal_Data.AssemblyInfoInputs.cache
+E:\Year-3\.NET\Lab Pratices\Lab2-Personal_Data\Lab2-Personal_Data\obj\Debug\net6.0\Lab2-Personal_Data.AssemblyInfo.cs
+E:\Year-3\.NET\Lab Pratices\Lab2-Personal_Data\Lab2-Personal_Data\obj\Debug\net6.0\Lab2-Personal_Data.csproj.CoreCompileInputs.cache
+E:\Year-3\.NET\Lab Pratices\Lab2-Personal_Data\Lab2-Personal_Data\obj\Debug\net6.0\Lab2-Personal_Data.dll
+E:\Year-3\.NET\Lab Pratices\Lab2-Personal_Data\Lab2-Personal_Data\obj\Debug\net6.0\refint\Lab2-Personal_Data.dll
+E:\Year-3\.NET\Lab Pratices\Lab2-Personal_Data\Lab2-Personal_Data\obj\Debug\net6.0\Lab2-Personal_Data.pdb
+E:\Year-3\.NET\Lab Pratices\Lab2-Personal_Data\Lab2-Personal_Data\bin\Debug\net6.0\person.txt
+E:\Year-3\.NET\Lab Pratices\Lab2-Personal_Data\Lab2-Personal_Data\bin\Debug\net6.0\Lab2-Personal_Data.exe
+E:\Year-3\.NET\Lab Pratices\Lab2-Personal_Data\Lab2-Personal_Data\bin\Debug\net6.0\Lab2-Personal_Data.deps.json
+E:\Year-3\.NET\Lab Pratices\Lab2-Personal_Data\Lab2-Personal_Data\bin\Debug\net6.0\Lab2-Personal_Data.runtimeconfig.json
+E:\Year-3\.NET\Lab Pratices\Lab2-Personal_Data\Lab2-Personal_Data\bin\Debug\net6.0\Lab2-Personal_Data.dll
+E:\Year-3\.NET\Lab Pratices\Lab2-Personal_Data\Lab2-Personal_Data\bin\Debug\net6.0\Lab2-Personal_Data.pdb
+E:\Year-3\.NET\Lab Pratices\Lab2-Personal_Data\Lab2-Personal_Data\obj\Debug\net6.0\Lab2-Personal_Data.genruntimeconfig.cache
+E:\Year-3\.NET\Lab Pratices\Lab2-Personal_Data\Lab2-Personal_Data\obj\Debug\net6.0\ref\Lab2-Personal_Data.dll
