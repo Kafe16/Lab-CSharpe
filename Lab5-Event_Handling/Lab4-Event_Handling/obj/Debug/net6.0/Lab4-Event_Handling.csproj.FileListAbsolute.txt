@@ -1,0 +1,14 @@
+E:\Year-3\.NET\Lab Pratices\Lab4-Event_Handling\Lab4-Event_Handling\bin\Debug\net6.0\Lab4-Event_Handling.exe
+E:\Year-3\.NET\Lab Pratices\Lab4-Event_Handling\Lab4-Event_Handling\bin\Debug\net6.0\Lab4-Event_Handling.deps.json
+E:\Year-3\.NET\Lab Pratices\Lab4-Event_Handling\Lab4-Event_Handling\bin\Debug\net6.0\Lab4-Event_Handling.runtimeconfig.json
+E:\Year-3\.NET\Lab Pratices\Lab4-Event_Handling\Lab4-Event_Handling\bin\Debug\net6.0\Lab4-Event_Handling.dll
+E:\Year-3\.NET\Lab Pratices\Lab4-Event_Handling\Lab4-Event_Handling\bin\Debug\net6.0\Lab4-Event_Handling.pdb
+E:\Year-3\.NET\Lab Pratices\Lab4-Event_Handling\Lab4-Event_Handling\obj\Debug\net6.0\Lab4-Event_Handling.GeneratedMSBuildEditorConfig.editorconfig
+E:\Year-3\.NET\Lab Pratices\Lab4-Event_Handling\Lab4-Event_Handling\obj\Debug\net6.0\Lab4-Event_Handling.AssemblyInfoInputs.cache
+E:\Year-3\.NET\Lab Pratices\Lab4-Event_Handling\Lab4-Event_Handling\obj\Debug\net6.0\Lab4-Event_Handling.AssemblyInfo.cs
+E:\Year-3\.NET\Lab Pratices\Lab4-Event_Handling\Lab4-Event_Handling\obj\Debug\net6.0\Lab4-Event_Handling.csproj.CoreCompileInputs.cache
+E:\Year-3\.NET\Lab Pratices\Lab4-Event_Handling\Lab4-Event_Handling\obj\Debug\net6.0\Lab4-Event_Handling.dll
+E:\Year-3\.NET\Lab Pratices\Lab4-Event_Handling\Lab4-Event_Handling\obj\Debug\net6.0\refint\Lab4-Event_Handling.dll
+E:\Year-3\.NET\Lab Pratices\Lab4-Event_Handling\Lab4-Event_Handling\obj\Debug\net6.0\Lab4-Event_Handling.pdb
+E:\Year-3\.NET\Lab Pratices\Lab4-Event_Handling\Lab4-Event_Handling\obj\Debug\net6.0\Lab4-Event_Handling.genruntimeconfig.cache
+E:\Year-3\.NET\Lab Pratices\Lab4-Event_Handling\Lab4-Event_Handling\obj\Debug\net6.0\ref\Lab4-Event_Handling.dll
