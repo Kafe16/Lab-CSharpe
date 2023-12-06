@@ -1,0 +1,14 @@
+E:\Year-3\.NET\Lab1-Input-Output\Lab1-Input-Output\bin\Debug\net6.0\Lab1-Input-Output.exe
+E:\Year-3\.NET\Lab1-Input-Output\Lab1-Input-Output\bin\Debug\net6.0\Lab1-Input-Output.deps.json
+E:\Year-3\.NET\Lab1-Input-Output\Lab1-Input-Output\bin\Debug\net6.0\Lab1-Input-Output.runtimeconfig.json
+E:\Year-3\.NET\Lab1-Input-Output\Lab1-Input-Output\bin\Debug\net6.0\Lab1-Input-Output.dll
+E:\Year-3\.NET\Lab1-Input-Output\Lab1-Input-Output\bin\Debug\net6.0\Lab1-Input-Output.pdb
+E:\Year-3\.NET\Lab1-Input-Output\Lab1-Input-Output\obj\Debug\net6.0\Lab1-Input-Output.GeneratedMSBuildEditorConfig.editorconfig
+E:\Year-3\.NET\Lab1-Input-Output\Lab1-Input-Output\obj\Debug\net6.0\Lab1-Input-Output.AssemblyInfoInputs.cache
+E:\Year-3\.NET\Lab1-Input-Output\Lab1-Input-Output\obj\Debug\net6.0\Lab1-Input-Output.AssemblyInfo.cs
+E:\Year-3\.NET\Lab1-Input-Output\Lab1-Input-Output\obj\Debug\net6.0\Lab1-Input-Output.csproj.CoreCompileInputs.cache
+E:\Year-3\.NET\Lab1-Input-Output\Lab1-Input-Output\obj\Debug\net6.0\Lab1-Input-Output.dll
+E:\Year-3\.NET\Lab1-Input-Output\Lab1-Input-Output\obj\Debug\net6.0\refint\Lab1-Input-Output.dll
+E:\Year-3\.NET\Lab1-Input-Output\Lab1-Input-Output\obj\Debug\net6.0\Lab1-Input-Output.pdb
+E:\Year-3\.NET\Lab1-Input-Output\Lab1-Input-Output\obj\Debug\net6.0\Lab1-Input-Output.genruntimeconfig.cache
+E:\Year-3\.NET\Lab1-Input-Output\Lab1-Input-Output\obj\Debug\net6.0\ref\Lab1-Input-Output.dll
