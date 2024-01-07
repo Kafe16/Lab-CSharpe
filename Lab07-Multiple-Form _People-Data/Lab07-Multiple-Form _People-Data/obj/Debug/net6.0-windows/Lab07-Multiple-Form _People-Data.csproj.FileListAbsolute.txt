@@ -1,0 +1,19 @@
+E:\Year-3\.NET\Lab Pratices\Lab07-Multiple-Form _People-Data\Lab07-Multiple-Form _People-Data\bin\Debug\net6.0-windows\Person.txt
+E:\Year-3\.NET\Lab Pratices\Lab07-Multiple-Form _People-Data\Lab07-Multiple-Form _People-Data\bin\Debug\net6.0-windows\Lab07-Multiple-Form _People-Data.exe
+E:\Year-3\.NET\Lab Pratices\Lab07-Multiple-Form _People-Data\Lab07-Multiple-Form _People-Data\bin\Debug\net6.0-windows\Lab07-Multiple-Form _People-Data.deps.json
+E:\Year-3\.NET\Lab Pratices\Lab07-Multiple-Form _People-Data\Lab07-Multiple-Form _People-Data\bin\Debug\net6.0-windows\Lab07-Multiple-Form _People-Data.runtimeconfig.json
+E:\Year-3\.NET\Lab Pratices\Lab07-Multiple-Form _People-Data\Lab07-Multiple-Form _People-Data\bin\Debug\net6.0-windows\Lab07-Multiple-Form _People-Data.dll
+E:\Year-3\.NET\Lab Pratices\Lab07-Multiple-Form _People-Data\Lab07-Multiple-Form _People-Data\bin\Debug\net6.0-windows\Lab07-Multiple-Form _People-Data.pdb
+E:\Year-3\.NET\Lab Pratices\Lab07-Multiple-Form _People-Data\Lab07-Multiple-Form _People-Data\obj\Debug\net6.0-windows\Lab07-Multiple-Form _People-Data.csproj.GenerateResource.cache
+E:\Year-3\.NET\Lab Pratices\Lab07-Multiple-Form _People-Data\Lab07-Multiple-Form _People-Data\obj\Debug\net6.0-windows\Lab07-Multiple-Form _People-Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Year-3\.NET\Lab Pratices\Lab07-Multiple-Form _People-Data\Lab07-Multiple-Form _People-Data\obj\Debug\net6.0-windows\Lab07-Multiple-Form _People-Data.AssemblyInfoInputs.cache
+E:\Year-3\.NET\Lab Pratices\Lab07-Multiple-Form _People-Data\Lab07-Multiple-Form _People-Data\obj\Debug\net6.0-windows\Lab07-Multiple-Form _People-Data.AssemblyInfo.cs
+E:\Year-3\.NET\Lab Pratices\Lab07-Multiple-Form _People-Data\Lab07-Multiple-Form _People-Data\obj\Debug\net6.0-windows\Lab07-Multiple-Form _People-Data.csproj.CoreCompileInputs.cache
+E:\Year-3\.NET\Lab Pratices\Lab07-Multiple-Form _People-Data\Lab07-Multiple-Form _People-Data\obj\Debug\net6.0-windows\Lab07-Multiple-Form _People-Data.dll
+E:\Year-3\.NET\Lab Pratices\Lab07-Multiple-Form _People-Data\Lab07-Multiple-Form _People-Data\obj\Debug\net6.0-windows\refint\Lab07-Multiple-Form _People-Data.dll
+E:\Year-3\.NET\Lab Pratices\Lab07-Multiple-Form _People-Data\Lab07-Multiple-Form _People-Data\obj\Debug\net6.0-windows\Lab07-Multiple-Form _People-Data.pdb
+E:\Year-3\.NET\Lab Pratices\Lab07-Multiple-Form _People-Data\Lab07-Multiple-Form _People-Data\obj\Debug\net6.0-windows\Lab07-Multiple-Form _People-Data.genruntimeconfig.cache
+E:\Year-3\.NET\Lab Pratices\Lab07-Multiple-Form _People-Data\Lab07-Multiple-Form _People-Data\obj\Debug\net6.0-windows\ref\Lab07-Multiple-Form _People-Data.dll
+E:\Year-3\.NET\Lab Pratices\Lab07-Multiple-Form _People-Data\Lab07-Multiple-Form _People-Data\obj\Debug\net6.0-windows\Lab07_Multiple_Form__People_Data.Create.resources
+E:\Year-3\.NET\Lab Pratices\Lab07-Multiple-Form _People-Data\Lab07-Multiple-Form _People-Data\obj\Debug\net6.0-windows\Lab07_Multiple_Form__People_Data.EditForm.resources
+E:\Year-3\.NET\Lab Pratices\Lab07-Multiple-Form _People-Data\Lab07-Multiple-Form _People-Data\obj\Debug\net6.0-windows\Lab07_Multiple_Form__People_Data.MainForm.resources
